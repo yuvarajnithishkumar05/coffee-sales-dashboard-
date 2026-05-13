@@ -34,7 +34,7 @@ The dashboard analyzes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ---
 
